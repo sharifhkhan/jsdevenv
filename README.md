@@ -2,7 +2,7 @@
 
 ![One does not simply code in JavaScript](https://i.imgur.com/OdlY9KP.png "One does not simply code in JavaScript")
 
-Open source tools for building a javascipt development envronment. If you're looking to simply get started as fast possible, consider using [create-react-app](https://github.com/facebook/create-react-app/) when setup is complete.
+Open source tools for building a javascipt development envronment. To get started as fast possible, consider using [create-react-app](https://github.com/facebook/create-react-app/) instead when setup is complete.
 
 ## Setup
 
