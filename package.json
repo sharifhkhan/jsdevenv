@@ -1,0 +1,22 @@
+{
+  "name": "jsdevenv",
+  "version": "1.0.0",
+  "description": "JavaScript Development Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharifhkhan/jsdevenv.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Sharif H. Khan <github@sharifhkhan.com> (https://www.sharifhkhan.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sharifhkhan/jsdevenv/issues"
+  },
+  "homepage": "https://github.com/sharifhkhan/jsdevenv#readme"
+}
