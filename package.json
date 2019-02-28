@@ -21,5 +21,9 @@
   "homepage": "https://github.com/sharifhkhan/jsdevenv#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
